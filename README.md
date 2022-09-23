@@ -1,6 +1,7 @@
 # P1001_P1021-CSharp
 Exercícios de logica do beecrowd em C#
 Codigo feito em C# com .Net
+
 Para rodar o código no VS Code, instale o programa e as extensões listadas abaixo:
 
 NET 6.0 SDK (v6.0.400) - Windows x64 Installer!
